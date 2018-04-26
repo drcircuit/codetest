@@ -1,0 +1,1 @@
+module.exports = "Step 1: write problem down\nStep 2: Think real hard\nStep 3: Write down solution...";
