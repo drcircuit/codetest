@@ -24,7 +24,7 @@ describe("the non iterable list function", function () {
         it("can you reveal the hidden secret at index 0 from the internal list?", function () {
             var secret = "not the secret you are looking for...";
             // ... your code here ... //
-            assert.equal(secret, hidden, secret);
+            assert.equal(hidden, secret);
             console.log(secret);
         })
     });
